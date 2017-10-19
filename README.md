@@ -53,4 +53,4 @@ Also you can use the onLinkClickListener if you want to perform some action on t
 ```
 
 # ScreenShot
-https://github.com/Faiyyaz/LinkedTextViewWithEmojicons/blob/master/Screenshot_2017-10-19-20-24-50.png?raw=true
+https://user-images.githubusercontent.com/18116236/31777987-1ea0afe0-b50d-11e7-981f-6e33cd0cce5e.png
