@@ -51,3 +51,6 @@ Also you can use the onLinkClickListener if you want to perform some action on t
             }
         });
 ```
+
+# ScreenShot
+https://github.com/Faiyyaz/LinkedTextViewWithEmojicons/blob/master/Screenshot_2017-10-19-20-24-50.png?raw=true
