@@ -18,7 +18,7 @@ public class SampleActivity extends AppCompatActivity {
         tvText = (LinkedTextView) findViewById(R.id.tvText);
         tvStyleText = (LinkedTextView) findViewById(R.id.tvTextStyle);
 
-        tvText.setText("@Developers This is just a sample of our #Awesome library \uD83D\uDE09\uD83D\uDE80");
+        tvText.setText("@Developers This is just a sample of our #Awesome+library \uD83D\uDE09\uD83D\uDE80");
         tvStyleText.setText("@Developers This is just a sample of our #Awesome library using styles.xml \uD83D\uDE09\uD83D\uDE80");
 
         //ClickListener for linkified text
