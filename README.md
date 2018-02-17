@@ -1,8 +1,6 @@
 # LinkedTextViewWithEmojicons
 
-# NEW VERSION
-
-# 1.1
+# Ver 1.2
 
 # Changes:
 
@@ -13,7 +11,7 @@ It is a library which can be used to ```linkify textview``` based on ```custom t
 This library is availble in jcenter repository.
 The compile statement to be written in ```build.gradle``` file is as below:
 
-```compile 'com.dexter:linkedtextviewwithemojicons:1.1'```
+```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.2'```
 
 # How to use
 
