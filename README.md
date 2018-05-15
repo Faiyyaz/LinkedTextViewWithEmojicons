@@ -1,17 +1,21 @@
-# LinkedTextViewWithEmojicons
+# CHANGELOGS
+
+# Ver 1.3
+
+Added support for highlighting urls containing `'_'` & `'?'` in them & make the whole text clickable.
 
 # Ver 1.2
 
-# Changes:
-
 Added support for highlighting `'+'` in a text & make the whole text clickable. 
+
+# LinkedTextViewWithEmojicons
 
 It is a library which can be used to ```linkify textview``` based on ```custom token``` defined either in the ```attrs.xml``` or in the ```properties``` of the ```textview``` in the layout file of a class.
 
 This library is availble in jcenter repository.
 The compile statement to be written in ```build.gradle``` file is as below:
 
-```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.2'```
+```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.3'```
 
 # How to use
 
