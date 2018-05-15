@@ -1,5 +1,9 @@
 # CHANGELOGS
 
+# Ver 1.5
+
+Added support for highlighting urls containing `'&'` in them & make the whole text clickable.
+
 # Ver 1.4
 
 Bug of proguard in ver 1.3 solved.
