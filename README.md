@@ -1,5 +1,9 @@
 # CHANGELOGS
 
+# Ver 1.4
+
+Bug of proguard in ver 1.3 solved.
+
 # Ver 1.3
 
 Added support for highlighting urls containing `'_'` & `'?'` in them & make the whole text clickable.
@@ -15,7 +19,7 @@ It is a library which can be used to ```linkify textview``` based on ```custom t
 This library is availble in jcenter repository.
 The compile statement to be written in ```build.gradle``` file is as below:
 
-```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.3'```
+```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.4'```
 
 # How to use
 
