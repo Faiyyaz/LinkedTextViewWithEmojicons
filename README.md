@@ -1,5 +1,9 @@
 # CHANGELOGS
 
+# Ver 1.6
+
+Added support for highlighting urls containing `'#'` in them & make the whole text clickable.
+
 # Ver 1.5
 
 Added support for highlighting urls containing `'&'` in them & make the whole text clickable.
@@ -23,7 +27,7 @@ It is a library which can be used to ```linkify textview``` based on ```custom t
 This library is availble in jcenter repository.
 The compile statement to be written in ```build.gradle``` file is as below:
 
-```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.4'```
+```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.6'```
 
 # How to use
 
