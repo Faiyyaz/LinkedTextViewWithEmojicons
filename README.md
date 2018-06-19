@@ -27,7 +27,7 @@ It is a library which can be used to ```linkify textview``` based on ```custom t
 This library is availble in jcenter repository.
 The compile statement to be written in ```build.gradle``` file is as below:
 
-```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.6'```
+```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.6.0'```
 
 # How to use
 
