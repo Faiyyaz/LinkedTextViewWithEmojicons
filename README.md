@@ -1,5 +1,9 @@
 # CHANGELOGS
 
+# Ver 1.7
+
+Added support for androidx
+
 # Ver 1.6
 
 Added support for highlighting urls containing `'#'` in them & make the whole text clickable.
@@ -28,6 +32,10 @@ This library is availble in jcenter repository.
 The compile statement to be written in ```build.gradle``` file is as below:
 
 ```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.6.0'```
+
+# For AndroidX
+
+```compile 'com.dexter.linkedtextviewwithemojicons:linkedtextviewwithemojicons:1.7.0'```
 
 # How to use
 
